@@ -1,0 +1,26 @@
+JULIA
+=====
+www.julialang.org
+Older Releases Pages
+v1.1.1 64 bits
+Instalar Julia 1.1.1
+
+Ejecutar JUPYTER
+=================
+Ingresar cmd
+Ir al directorio de IOP1:
+d:
+cd \Personal\Oscar\Cursos\IOP1 - UTEC - 2019-2\Laboratorio
+jupyter lab
+
+Dentro de Jupyterlab:
+
++: New Launcher - Elegir Notebook para crear programas en Julia (extensión ipynb)
+
+
+Desde JULIA
+============
+using IJulia
+jupyterlab()
+
+Shift+Enter: Agrega un bloque de código y ejecuta

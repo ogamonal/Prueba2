@@ -1,0 +1,3 @@
+simulated annealing
+tabu search
+variable neighborhood search

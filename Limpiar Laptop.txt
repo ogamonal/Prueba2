@@ -1,0 +1,61 @@
+1 - Borrar archivos Temporales
+Ventana de comandos
+%temp%
+Seleccionar con Ctrl+E
+Eliminar todo
+Marcar casilla
+Omitir
+
+2 - Borrar archivos basura
+Ventana de Comandos
+c:\windows\prefetch
+Ctrl+E
+Eliminar todo
+Marcar casilla
+Omitir
+
+3 - Borra archivos innecesarios
+Explorador
+Este equipo
+Disco C
+Click Derecho/Propiedades
+General/Liberar Espacio
+Marcar todo
+Aceptar
+
+4 - Acelerar rendimiento (Empeora la apariencia)
+Este equipo
+Propiedades
+Configuración Avanzada del Sistema
+Opciones Avanzadas
+Rendimiento/Configuración
+Efectos Visuales/Ajustar para Obtener el mejor rendimiento
+
+5 - Utilizar todos los procesadores disponibles
+Inicio
+msconfig
+Configuración del Sistema
+General/Selección de Inicio/Inicio Selectivo
+Arranque/Tiempo de Espera: 15 segundos
+Opciones Avanzadas/Solo marcar número de procesadores/Marcar el número más alto
+Aceptar
+
+6 - Deshabilitar programas de Inicio
+ Inicio de Windows/Abrir el Administrador de Tareas/Inicio/Deshabilitar lo que no se necesite
+
+7 - Borrar Registros
+Inicio
+Visor de Eventos
+Registros de Windows
+Aplicación/Click Derecho/Vaciar registro/Borrar
+Seguridad/Vaciar Registro/Borrar
+Instalación/Vaciar Registro/Borrar
+Sistema/Vaciar Registro/Borrar
+Eventos reenviados/Vaciar Registro/Borrar
+Cerrar Ventana
+
+8 - Desfragmentar y Optimizar Unidades
+Inicio
+Desfragmentar
+Seleccionar el Disco C/Optimizar
+Optimización Programada/Cambiar Configuración/Ejecución Programada/Semanal o  Mensual
